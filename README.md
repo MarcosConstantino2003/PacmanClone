@@ -6,7 +6,7 @@
  fue especialmente util al comienzo aunque rapidamente deje de consultarlo cuando paso a la carga de mapas mediante bitmaps (yo sabía desde el principio que quería hacerlos en base a texto para que sean facilmente personalizables). Pero es muy valiosa la guia al comienzo cuando tenes ideas y nada mas que eso. <br>
 <b> StarUML: </b> Utilizado para los siempre cambiantes diagramas de clases. <br>
 <b> Copilot (GPT4): </b> Utilizado para cosas poco específicas o que no serán base o fundación de desarrollo futuro, principalmente porque no confio mucho en la misma. Especialmente util cuando me olvidaba de un break en un switch case (pasó más de una vez) y para el manejo de BufferedImage. <br>
-<b> StackOverflow: </b> ¡Hoy hice mi primera pregunta de Stackoverflow! Me mataron porque aparentemente no puse suficiente info o la pregunta ya era repetida. Y ya la cerraron y la downvotearon. Que rápido. Podés leerla acá: https://stackoverflow.com/questions/78141000/java-getresourceasstream-throws-nullpointer-even-though-the-path-worked-with-fil <br>
+<b> StackOverflow: </b> ¡Hoy hice mi primera pregunta de Stackoverflow! Me mataron porque aparentemente no puse suficiente info o la pregunta ya era repetida. Y ya la cerraron y la downvotearon. Que rápido. <a href="https://stackoverflow.com/questions/78141000/java-getresourceasstream-throws-nullpointer-even-though-the-path-worked-with-fil">Podes leerla acá.</a> <br>
 <figure>
   <img src="https://github.com/MarcosConstantino2003/Constantino-PACMAN-TDP/assets/117044247/552d41d4-08f8-4919-9eb2-9e32002db83d" alt="so" style="width:100%">
   <figcaption>Perdonenme.</figcaption>
