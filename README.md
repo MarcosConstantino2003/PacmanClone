@@ -1,7 +1,7 @@
 <h1 align="center"> Examen Libre TDP 2024 </h1>
 <h2 align="center"> Marcos Constantino - Pacman </h2>
+<h3 align="center"> Clon de Pacman hecho puramente en Java. </h3>
 <h2 align="center"> Herramientas utilizadas </h2>
-<b> Eclipse: </b> No se si voy a seguir usandolo. Casi me cuesta el proyecto (seguro fue culpa mía... pero igual 😠)<br>
 <b> Let's build Pacman: </b> <a href="https://www.youtube.com/watch?v=_g2_KQIr2qk&list=PLD5R3cJr8wU2ZNZ-l5MKowc7sXwaV8hF)">Esta guía</a>
  fue especialmente util al comienzo aunque rapidamente deje de consultarlo cuando paso a la carga de mapas mediante bitmaps (yo sabía desde el principio que quería hacerlos en base a texto para que sean facilmente personalizables). Pero es muy valiosa la guia al comienzo cuando tenes ideas y nada mas que eso. <br>
 <b> StarUML: </b> Utilizado para los siempre cambiantes diagramas de clases. <br>
